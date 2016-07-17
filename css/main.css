@@ -1,0 +1,48 @@
+body {
+    background-image: url(../img/space.jpg);
+    font-size: 25px;
+    color: #fff;
+    margin-top: 25px; 
+    margin-left: 50px;
+    margin-bottom:15px;
+    margin-right: 15px;
+}
+
+div {
+	display: block;
+}
+h1 {
+	text-align: center;
+}
+
+input {
+	border-width: 2px;
+	margin-left: 215px;
+}
+button {
+	margin-left: 250px;
+}
+
+img {
+	margin-left: -100px;
+}
+.container {
+	width: 1170px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.col-xs-offset-3 {
+	margin-left: 25%;
+}
+
+.col-xs-6 {
+	width: 50%;
+}
+
+.form {
+	margin-top: 0;
+}
+
